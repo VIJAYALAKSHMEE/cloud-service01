@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perseverance</title>
+    <title>Netflix Style Page</title>
     <style>
         body {
             margin: 0;
@@ -14,9 +14,7 @@
             justify-content: center;
             height: 100vh;
             font-family: 'Frank Ruhl Libre', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-              color: #FFFF00;    /*  yellow color */
-            /*  color: #0000FF; */   /* Blue color */
-                /*   color: #ee82ee; */
+            color: #e50914; /* Netflix red color */
         }
 
         h1 {
@@ -24,12 +22,12 @@
             letter-spacing: 4px;
             text-align: center;
             text-transform: uppercase;
-            font-weight: 700; /* Bold font weight */     /* e50914 */
+            font-weight: 700; /* Bold font weight */     /* ffa500 */
             margin: 0; /* Remove default margin */
         }
     </style>
 </head>
 <body>
-    <h1>PERSEVERANCE SOFTWARE INSTITUTE</h1>
+    <h1>Netflix</h1>
 </body>     
 </html>
